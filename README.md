@@ -65,6 +65,8 @@ services:
       - 9999:9999
     command: ["/bin/main"]
 ```
+**!important! don't change service name! It should be "swarm"**
+
 
 Now we have to do the following:
 
