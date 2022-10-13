@@ -1,1 +1,1 @@
-# easycicd
+# EasyCICD
